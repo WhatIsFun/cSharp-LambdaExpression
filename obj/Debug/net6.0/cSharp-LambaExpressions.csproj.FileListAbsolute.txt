@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\bin\Debug\net6.0\cSharp-LambaExpressions.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\bin\Debug\net6.0\cSharp-LambaExpressions.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\bin\Debug\net6.0\cSharp-LambaExpressions.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\bin\Debug\net6.0\cSharp-LambaExpressions.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\bin\Debug\net6.0\cSharp-LambaExpressions.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\cSharp-LambaExpressions.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\cSharp-LambaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\cSharp-LambaExpressions.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\cSharp-LambaExpressions.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\cSharp-LambaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\cSharp-LambaExpressions.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\refint\cSharp-LambaExpressions.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\cSharp-LambaExpressions.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\cSharp-LambaExpressions.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-LambaExpressions\obj\Debug\net6.0\ref\cSharp-LambaExpressions.dll
