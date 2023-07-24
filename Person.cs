@@ -17,10 +17,10 @@ namespace cSharp_LambaExpressions
         // Constructor
         public Person(string name, int age, string gender, string address)
         {
-            Name = name;
-            Age = age;
-            Gender = gender;
-            Address = address;
+            this.Name = name;
+            this.Age = age;
+            this.Gender = gender;
+            this.Address = address;
         }
 
     }
